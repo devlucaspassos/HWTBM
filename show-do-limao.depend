@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1701123347 source:c:\users\nitro\onedrive\Área de trabalho\show-do-limao\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+
